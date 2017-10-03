@@ -1,12 +1,12 @@
-#Sushi-Go-Round-Bot
+# Sushi-Go-Round-Bot
 Bot made for the Miniclip game Sushi Go Round. 
 
-**Disclaimer**
+**Disclaimer:**
 *This bot was specifically designed for my computer window and resolution so changes in the code may be necessary for proper functioning*
 
-###Installation
+### Installation
 ```bash
-#Clone this repository
+# Clone this repository
 git clone https://github.com/Harshish/Sushi-Go-Round-Bot.git
 
 # Go into the repository
